@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973407000179",
+    "project_id": "messagegram-aa91f",
+    "storage_bucket": "messagegram-aa91f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973407000179:android:79f2093da06bd444babc06",
+        "android_client_info": {
+          "package_name": "com.faijan.messagegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973407000179-3lq4tpsl9rj8h7m2lv6uml8tjekgs30t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1zhgcdMjId-tIIDnoDdDZJTkVifSjwWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973407000179-3lq4tpsl9rj8h7m2lv6uml8tjekgs30t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
